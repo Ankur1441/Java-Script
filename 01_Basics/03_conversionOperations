@@ -1,0 +1,11 @@
+let num = "33"
+
+console.log(typeof num);
+console.log(typeof(num)); //multiple ways to know the type of variable
+
+let valueInNumber = Number(num)
+console.log(valueInNumber);
+
+
+
+
